@@ -30,7 +30,7 @@ Records flawless runs
 # Criteria B: Design
 
 ## System Diagram
-![](screenshot.png)
+![](Screenshot.png)
 ## Flow Diagrams
 
 ## Record of Tasks
