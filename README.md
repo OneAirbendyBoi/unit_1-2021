@@ -34,8 +34,10 @@ Records flawless runs
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
-|---------|----------------|-----------------|---------------|------------------------|-----------|
-|   1     |system diagram  |  have a clear idea of software and hardware requirements for game | 10 min|         Sep 24               |      B     |
-|    2    | unit testing for encoder         |     to protect user's privacy with Cesar Code            |     15 min          |       Oct 6       |           |
-|         |                |                 |               |                        |           |
+| Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
+|---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 24                 | B         |
+| 2       | Create a encryption function for the user data                | A function tested that uses the caesar cypher                                                                   | 20 min        | Oct 6                  | C         |
+| 3       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/write                                                                 |               |                        | C         |
+| 4       | Create a function for encoding the database                   | a function tested that encodes the database                                                                     | 40min         | Oct 7                  | C         |
+| 5       | Unit Test: function for encoding with the Caesar cypher       | To check that the function works as expected. Test with input "hello" and key =1. The outcome should be "ifkkp" | 5 min         | Oct 7                  | E         |
