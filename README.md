@@ -36,6 +36,6 @@ Records flawless runs
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
+|   1     |system diagram  |  have a clear idea of software and hardware requirements for game | 10 min|         Sep 24               |      B     |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
