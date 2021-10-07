@@ -37,5 +37,5 @@ Records flawless runs
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
 |   1     |system diagram  |  have a clear idea of software and hardware requirements for game | 10 min|         Sep 24               |      B     |
-|         |                |                 |               |                        |           |
+|    2    | unit testing for encoder         |     to protect user's privacy with Cesar Code            |     15 min          |       Oct 6       |           |
 |         |                |                 |               |                        |           |
