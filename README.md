@@ -34,10 +34,21 @@ Records flawless runs
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
-|---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 24                 | B         |
-| 2       | Create a encryption function for the user data                | A function tested that uses the caesar cypher                                                                   | 20 min        | Oct 6                  | C         |
-| 3       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/write                                                                 |               |                        | C         |
-| 4       | Create a function for encoding the database                   | a function tested that encodes the database                                                                     | 40min         | Oct 7                  | C         |
-| 5       | Unit Test: function for encoding with the Caesar cypher       | To check that the function works as expected. Test with input "hello" and key =1. The outcome should be "ifkkp" | 5 min         | Oct 7                  | E         |
+↧ Expand ↧
+ GeneratePut tabs between columnsCompact modeLine breaks as <br>
+Result (click "Generate" to refresh) Copy to clipboard  Preview
+| Task No | Planned Action                                                | Planned Outcome                                                                          | Time estimate                               | Target completion date | Criterion |
+|---------|---------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------|------------------------|-----------|
+| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution | 10min                                       | Sep 24                 | B         |
+| 2       | Create a encryption function for the user data                | A function tested that uses the caesar cypher                                            | 20 min                                      | Oct 6                  | C         |
+| 3       | Integrate the encryption with the database save/load function | A function tested that uses the caesar cyphe                                             | 20 min                                      | Oct 6                  | C         |
+| 4       | Create a function for encoding the database                   | The database is encrypted and can be read/write                                          | 40 min                                      | Oct 7                  | C         |
+| 5       | Unit Test: function for encoding with the Caesar cypher       |  encoding the database                                                                   | a function tested that encodes the database | Oct 7                  | E         |
+| 6       | Make MVP                                                      | to show off a viable example of the format of the game                                   | 1 hour                                      | Oct 15                 | B         |
+| 7       | Complete Dialogue                                             | Finish dialogue, making sure each character is unique                                    | 7 hours                                     | Oct 23                 | B         |
+| 8       | Complete Puzzles                                              | Finish puzzles, creating a challenge for the user                                        | 5 hours                                     | Oct 23                 | B         |
+| 9       | Complete Story                                                | Make sure Worldline is a complete Alpha experience                                       | 12 hours                                    | Oct 23                 | B         |
+| 10      | Add Timer                                                     | Add a timekeeper                                                                         | 10 min                                      | October 25             | C         |
+| 11      | Polish with text timers and clearing                          | Keep screen clear and dont overload user with text                                       | 1 hour                                      | Oct 24                 | C         |
+| 12      | Complete Worldline Alpha (Intro + Chapter 1)                  | Fully complete Alpha version of game                                                     | 20 hours                                    | Oct 25                 |           |
+                                                                
