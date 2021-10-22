@@ -32,7 +32,11 @@ Records flawless runs
 ## System Diagram
 ![](Screenshot.png)
 ## Flow Diagrams
+![]IMG_0331.jpg
 
+![]IMG_0332.jpg
+
+1[]IMG_0333.jpg
 ## Record of Tasks
 ↧ Expand ↧
  GeneratePut tabs between columnsCompact modeLine breaks as <br>
