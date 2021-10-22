@@ -36,7 +36,7 @@ Records flawless runs
 
 ![](IMG_0332.jpg)
 
-![](IMG_0333.jpg)
+![](I65655936565__54C0C7B5-2D0C-4885-BF2E-B61F6DB9EEF1.jpg)
 ## Record of Tasks
 ↧ Expand ↧
  GeneratePut tabs between columnsCompact modeLine breaks as <br>
