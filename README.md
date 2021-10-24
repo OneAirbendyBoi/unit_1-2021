@@ -55,4 +55,11 @@ Result (click "Generate" to refresh) Copy to clipboard  Preview
 | 10      | Add Timer                                                     | Add a timekeeper                                                                         | 10 min                                      | October 25             | B         |
 | 11      | Polish with text timers and clearing                          | Keep screen clear and dont overload user with text                                       | 1 hour                                      | Oct 24                 | C         |
 | 12      | Complete Worldline Alpha (Intro + Chapter 1)                  | Fully complete Alpha version of game                                                     | 20 hours                                    | Oct 25                 |           |
+
+
+
+
+
+
+run main.py
                                                                 
