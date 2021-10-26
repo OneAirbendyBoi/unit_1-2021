@@ -37,6 +37,16 @@ Records flawless runs
 ![](IMG_0332.jpg)
 
 ![](g.jpg)
+##Unit Testing
+| Description         | Type         | Inputs                             | Expected Output                                                                       |
+|---------------------|--------------|------------------------------------|---------------------------------------------------------------------------------------|
+| Name save           | Unit Testing | name                               | db.txt saves name Name, Score, Time name functions in action and dialogue             |
+| Score Save          | Unit Testing | none                               | db.txt saves score Name, Score, Time score announced at end of game                   |
+| Timer               | Unit Testing | none                               | db.txt saves end time  Name, Score, Time  end time announced at end of game           |
+| Caesar Cypher       | Unit Testing | name                               | scrambles name when put in db.txt  e.g. obnf (name)                                   |
+| Movement            | Unit Testing | (movement option) e.g. walk to bar | response to player's chosen action  based on whatever is typed in                     |
+| Main screen to game | Integration  | none                               | main screen translates seamlessly to Chapter 1 in Library.py when new game is pressed |
+
 ## Record of Tasks
 ↧ Expand ↧
  GeneratePut tabs between columnsCompact modeLine breaks as <br>
