@@ -1,4 +1,4 @@
-print(brainstorm)
+##brainstorm
 gather info
 design solution
 test bare minimum
